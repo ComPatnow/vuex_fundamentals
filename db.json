@@ -29,6 +29,66 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "8857d5e3-8bee-4617-95df-84004ad0b5d8",
+      "category": "animal welfare",
+      "title": "Horse Brushing Race",
+      "description": "A fun event",
+      "location": "New York",
+      "date": "August 18, 2028",
+      "time": "2:00",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "cc10c56f-33d6-4eae-bae5-3a1cf3e77bd4",
+      "category": "nature",
+      "title": "Discovering Lightening Lake",
+      "description": "Come to discover all Lightening secrets",
+      "location": "Lightening Lake Creek",
+      "date": "April 15, 2024",
+      "time": "8:00",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "fec5ee90-7488-4d21-bc12-2be9c66a0a0b",
+      "category": "food",
+      "title": "Burger Contest",
+      "description": "Come to contest your place in this eating burger contest",
+      "location": "Los Angeles",
+      "date": "July 4, 2022",
+      "time": "12:00 am",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "4a0274a8-23b1-4d2c-972d-c5149ae4fb6f",
+      "category": "nature",
+      "title": "Royal Hilltop",
+      "description": "Come walk along this famous hill",
+      "location": "Montana",
+      "date": "June 23, 2022",
+      "time": "10:am",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "fa49f851-6db1-4a78-bd4e-18c7e9b29b5d",
+      "category": "education",
+      "title": "Learn how to manage your development skills",
+      "description": "Increase your time and efficiency when developing ",
+      "location": "Atlanta",
+      "date": "May 20, 2022",
+      "time": "10:00am",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "09d3eef8-40a5-4cea-a0e4-e931bfc9296e",
+      "category": "animal welfare",
+      "title": "Puppies: dogs and cats",
+      "description": "Want to see cute puppies? Come adopt your dog or cat",
+      "location": "San Francisco",
+      "date": "April 28, 2022",
+      "time": "10:00 am",
+      "organizer": "Jack Sparrow"
     }
   ]
 }
